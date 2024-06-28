@@ -1,0 +1,33 @@
+.div-1{
+    display: flex;
+    justify-content: center;
+    
+    background-image: url(https://ben.com.vn/tin-tuc/wp-content/uploads/2020/09/hinh-nen-anime-full-hd.jpg);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 270px;
+    background-position: 100%;
+    border-radius: 25px;
+}
+.div-2{
+    color: white;
+    font-size: 25px;
+}
+.div-0{
+
+}
+.div-3{
+    margin-right: 500px;
+
+}
+.div-4{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    border-radius: 50px;
+    text-decoration: none;  
+}
+.div-6{
+    text-decoration: none;
+    color: white;
+}
